@@ -1,0 +1,10 @@
+#include"LDR.h"
+#include"LED.h"
+#include"adc.h"
+#include"LM35_Sensor.h"
+#include"lcd.h"
+#include"motor.h"
+#include"Buzzer.h"
+#include"mem_mapped.h"  /* to set the i bit */
+#include"Flame_Sensor.h"
+#include"common_macros.h"
